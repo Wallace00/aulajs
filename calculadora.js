@@ -4,7 +4,7 @@
 /* soma
   subtração
   multiplicação
-  divisão
+  divisao
   retorna 0 */
 
 const SOMA = 'somar';
